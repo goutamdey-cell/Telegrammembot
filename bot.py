@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 # ==========================================
 # 🔥 SIRF EK JAGAH CHANGE KARO (TOKEN) 🔥
 # ==========================================
-TOKEN = "8765162298:AAGXfpkgAw3bd_6ekig9XQSFW5gDCbYEkR4"  # ⬅️ YAHAN @BotFather se MILA NAYA TOKEN DAALO
+TOKEN = "8765162298:AAFOUaKaSroVQ_nDiFTKiHuIJhFgR3CAEu0"  # ⬅️ YAHAN @BotFather se MILA NAYA TOKEN DAALO
 
 # (NEECHE SAB KUCH MAIN NE SET KAR DIYA HAI, ISE MAT CHHEDO)
 OWNER_ID = 7504827194
